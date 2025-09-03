@@ -6,7 +6,7 @@ dvmbhu = [
     "https://files.catbox.moe/dbbwh8.mp4"
 ]
 vid = random.choice(dvmbhu)
-vipurl = "https://raw.githubusercontent.com/d-vmb/B/main/users.txt"
+vipurl = "https://raw.githubusercontent.com/d-vmb/OBLIVION/main/README.txt"
 
 def findtime():
     try:
